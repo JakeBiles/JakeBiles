@@ -1,4 +1,5 @@
-![image](https://github.com/JakeBiles/JakeBiles/assets/157452008/07896693-cc79-4a13-8107-642fa02f558a)# **Jacob Biles**
+![image](https://github.com/JakeBiles/JakeBiles/assets/157452008/07896693-cc79-4a13-8107-642fa02f558a)
+# **Jacob Biles**
 
 Upcoming graduate with a strong academic background in computer science and hands-on training in full-stack (front-end and back-end) development. 
 Collaborative, personable, and analytical. 
