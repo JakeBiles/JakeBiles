@@ -9,3 +9,5 @@ Adept in various programming languages, frameworks, and tools, complemented by a
 Creative and detail-oriented with advanced problem-solving skills. Excels in both team-oriented projects and individual coding tasks. 
 Excited to learn new skills and expand my knowledge about software design and implementation.
 
+
+
